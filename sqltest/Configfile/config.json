@@ -1,0 +1,10 @@
+{
+  "mysql_config": {
+    "host": "localhost",
+    "user": "root",
+    "password": "123456",
+    "db": "sqltest",
+    "port": 3306,
+    "charset": "utf8"
+  }
+}
